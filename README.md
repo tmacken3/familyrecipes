@@ -1,6 +1,6 @@
 # familyrecipes
 My Library Carpentry Family Recipe repo
 
-Poppy Seed Chicken
+**Poppy Seed Chicken**
 
-Thumbprint Cookies
+**Thumbprint Cookies**
