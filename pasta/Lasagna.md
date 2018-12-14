@@ -16,7 +16,7 @@ From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 One pack of lasagne sheet
 1.5 pints (850 ml) béchamel sauce
 Finely grated parmesan
-Equipment
+**Equipment**
 One small pan for the bechamel sauce (preferably non-stick)
 One large, deep pan for the ragu
 A sha
