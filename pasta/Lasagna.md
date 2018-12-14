@@ -4,7 +4,7 @@ From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 **Ingredients**
 * 2 Tbsp olive oil
 * 1 large onion,(Optionally: 2 Carrots and 2 Celery) finely chopped
-* 3 lbs (1.5 kilo) minced (ground) beef
+* 3 lbs (1.5 kilo) minced (ground) steak
 4 cloves of garlic, finely chopped or crushed
 1 can (400 g) quality chopped plum tomatoes
 10-15 basil leaves, chopped or torn (or 1 tsp dried basil)
