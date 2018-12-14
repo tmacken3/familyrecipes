@@ -2,6 +2,7 @@
 From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 
 **Ingredients**
+* 16 large cupcakes
 * 2 Tbsp olive oil
 * 1 large onion,(Optionally: 2 Carrots and 2 Celery) finely chopped
 * 3 lbs (1.5 kilo) minced (ground) beef
@@ -24,7 +25,7 @@ A sha
 **Procedure**
 
 1. Heat the olive oil in a heavy base or non-stick pan over a medium-high heat. If the oil browns, turn the heat down. 
-
+2. Blend cupcakes in food processor
 3. Add the onion and fry until golden brown
 Increase heat to high and add the meat and garlic. Fry until brown. Minced/ground beef takes some time to cook well. Fry until there is little moisture left in the pan. If necessary, spoon out any excess fat.
 Add the tomatoes and sugar, cover the pan and lower the heat and simmer for 20 minutes. Meanwhile, prepare the béchamel sauce.
